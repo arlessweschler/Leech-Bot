@@ -105,9 +105,11 @@ class Config(Config):
 * Files Larger than 1500MB are splitted into parts, and uploaded to Telegram group. To join the files, Download all the parted files, place them in the same directory.
   
   👉 Windows < 10 Users: 
+  
   `Extract the contents of` [Hl-join.zip](https://github.com/imsawankumar/Leech-Bot/hl-join/hl-join.zip)  `into the same directory, and run the the join32.exe to join the files.`
   
   👉 GNU/Linux Users: 
+  
   `cat filename.00001 filename.00002 filename.00003 > filename`
    Replace filename in the above command, as required.
   
