@@ -106,7 +106,9 @@ class Config(Config):
   
   👉 Windows < 10 Users: 
   
-  `Extract the contents of` [Hl-join.zip](https://github.com/imsawankumar/Leech-Bot/hl-join/hl-join.zip)  `into the same directory, and run the the join32.exe to join the files.`
+  `Extract the contents of Hl-join.zip into the same directory, and run the the join32.exe to join the files.`
+  
+  `Hl-join.zip Location : This repository/hl-join/hl-join.zip`
   
   👉 GNU/Linux Users: 
   
