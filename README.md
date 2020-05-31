@@ -102,10 +102,10 @@ class Config(Config):
 
 * Send any one of the available command, as a reply to a valid link.
 
-* Files Larger than 1500MB are splitted into parts, and uploaded to Telegram group.
-  To join the files, Download all the parted files, place them in the same directory.
+* Files Larger than 1500MB are splitted into parts, and uploaded to Telegram group. To join the files, Download all the parted files, place them in the same directory.
+  
   👉 Windows < 10 Users: 
-  `Extract the contents of {Hl-join.zip](https://github.com/imsawankumar/Leech-Bot/hl-join/hl-join.zip)  into the same directory, and run the the join32.exe to join the files.`
+  `Extract the contents of` {Hl-join.zip](https://github.com/imsawankumar/Leech-Bot/hl-join/hl-join.zip)  `into the same directory, and run the the join32.exe to join the files.`
   
   👉 GNU/Linux Users: 
   `cat filename.00001 filename.00002 filename.00003 > filename`
@@ -114,10 +114,13 @@ class Config(Config):
 * If you got a file.tar.gz from the bot:
 
   👉 Windown 10 Users : 
+  
   `Install [7-zip](https://www.7-zip.org/download.html)`
+  
   `Extract the .tar.gz file.`
   
   👉 GNU/Linux users : 
+  
   `Just right click and select "Extract Here" if you use Ubuntu.`
 
 ## Thanks to :heart:
